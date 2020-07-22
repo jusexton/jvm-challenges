@@ -10,3 +10,5 @@ Collection of programming challenges that have been accumulating over the span o
 
 ## Original Project
 Below is the original deprecated project housing all programming challenges. All JVM based solutions have since been relocated to this repository.
+
+https://github.com/JSextonn/challenges
