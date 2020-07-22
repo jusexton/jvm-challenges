@@ -1,5 +1,6 @@
 # JVM Programming Challenges
-![](https://github.com/jsextonn/jvm-challenges/workflows/build/badge.svg)
+![](https://github.com/jsextonn/jvm-challenges/workflows/build/badge.svg)  
+
 Collection of programming challenges that have been accumulating over the span of 4+ years.
 
 ## Challenge Sources
