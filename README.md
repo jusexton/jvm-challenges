@@ -4,6 +4,8 @@
 
 Programming challenges written in JVM specific languages.
 
+Visit https://github.com/JSextonn/all-challenges if you're interested in seeing programming challenges completed in other languages.
+
 ## Completed Programming Challenges
 
 - [Java Code Wars](#java-code-wars)
